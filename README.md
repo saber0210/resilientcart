@@ -237,6 +237,3 @@ Replace bracketed values with results produced by your own test run:
 
 This is a portfolio system, not a payment product. The payment provider is simulated, secrets are configured for local development, PostgreSQL and RabbitMQ run as single instances, schema migrations are replaced by startup table creation, and the Kubernetes manifests are demo-grade. See [`docs/tradeoffs.md`](docs/tradeoffs.md) for the production roadmap.
 
-## License
-
-MIT
