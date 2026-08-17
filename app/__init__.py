@@ -1,0 +1,1 @@
+"""ResilientCart application package."""
